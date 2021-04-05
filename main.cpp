@@ -16,4 +16,9 @@ int main()
         cout<<a;
     }
     else cout<<b;
+    if (a>b)
+    {
+        cout<<a;
+    }
+        else cout<<b;
 }
